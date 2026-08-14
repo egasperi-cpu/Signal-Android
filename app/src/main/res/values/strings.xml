@@ -2932,7 +2932,7 @@
     <string name="SharedContactDetailsActivity_add_to_contacts">Add to Contacts</string>
     <string name="SharedContactDetailsActivity_invite_to_signal">Invite to Signal</string>
     <string name="SharedContactDetailsActivity_signal_message">ERIZO Message</string>
-    <string name="SharedContactDetailsActivity_signal_call>">ERIZO Call</string>
+    <string name="SharedContactDetailsActivity_signal_call">ERIZO Call</string>
 
     <!-- SharedContactView -->
     <string name="SharedContactView_add_to_contacts">Add to Contacts</string>
@@ -2990,7 +2990,7 @@
     <!-- Sticker pack list section header for packs that have been received from incoming messages. -->
     <string name="StickerManagement_stickers_you_received_header">Stickers you received</string>
     <!-- Sticker pack list section header for highlighted/"blessed" packs. -->
-    <string name="StickerManagement_signal_artist_series_header>">ERIZO artist series</string>
+    <string name="StickerManagement_signal_artist_series_header">ERIZO artist series</string>
     <!-- Title shown when sharing a sticker pack with another user. -->
     <string name="StickerManagement_share_sheet_title">Forward to</string>
     <!-- Bottom action bar option to select all sticker packs in the list. -->

@@ -4109,7 +4109,7 @@
         <item>Feedback</item>
         <item>Payments (MobileCoin)</item>
         <item>Donations &amp; Badges</item>
-        <itemERIZO Android Backup</item>
+        <item>ERIZO Android Backup</item>
         <item>Other</item>
     </string-array>
     <!-- Subject of email when submitting debug logs to help debug slow notifications -->
